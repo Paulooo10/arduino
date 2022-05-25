@@ -1,4 +1,8 @@
-# arduino
-<p>Codes Arduino STI</p>
-Ceci est une page réservée à des tests pour des composants Arduino pour une classe de STI2D : seuls les personnes autorisées peuvent utiliser ces codes.
-<br>1STI2D
+# Projet de surveillance d'une pharmacie
+
+## Page des tests
+
+Ceci sera la page des codes testés, avant d'être envoyés chez Betawolfy.
+
+__Page réservée aux membres du projet__
+**Toute modification est interdite sans autorisation.**
