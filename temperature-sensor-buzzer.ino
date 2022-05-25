@@ -1,3 +1,8 @@
+/*Code non opérationnel : non testé (souci de téléversement)
+Ne pas modifier sans accord.
+Mercredi 25 mai à 12:24
+*/
+
 #include "Seeed_MCP9808.h"
  
 MCP9808  sensor;
