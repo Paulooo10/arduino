@@ -1,6 +1,6 @@
-/* Ce code n'est pas encore opérationnel.
-Souci à régler : le faire fonctionner en permanence avec le moniteur série.
-Mercredi 25 mai, à 11:51
+/* Code opérationnel
+Penser à définir le moniteur série en 115200 baud
+Mercredi 25 mai, à 12:01
 */
 
 #include "Seeed_MCP9808.h"
