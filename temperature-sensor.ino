@@ -1,3 +1,8 @@
+/* Ce code n'est pas encore opérationnel.
+Souci à régler : le faire fonctionner en permanence avec le moniteur série.
+Mercredi 25 mai, à 11:51
+*/
+
 #include "Seeed_MCP9808.h"
  
 MCP9808  sensor;
